@@ -58,7 +58,7 @@ body {
 }
 
 .photo1 {
-    background-image: url(/image\ 7.png);
+    background-image: url(image\ 7.png);
     height: 500px;
     display: flex;
     align-items: center;
